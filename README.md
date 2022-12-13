@@ -1,4 +1,4 @@
-### Olá! Eu sou a Larissa Santos, estudante em desenvolvimento 😊
+### Olá! Eu sou a Larissa Santos, estudante em desenvolvimento 😊 🤓
 
 <div align="center">
   <a href="https://github.com/Santoslarissa">
@@ -13,6 +13,8 @@
   <img align="center" alt="Lari-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lari-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Lari-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Lari-Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+          
 </div>
 
  ##
