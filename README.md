@@ -1,4 +1,4 @@
-### Olá! Eu sou a Larissa Santos, graduada em Sistemas de Informações 😊 🤓
+### Olá! Eu sou a Larissa Santos, graduada em Sistemas de Informação 😊🤓
 
 <div align="center">
   <a href="https://github.com/Santoslarissa">
