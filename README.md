@@ -1,4 +1,4 @@
-### Olá! Eu sou a Larissa Santos, estudante em desenvolvimento 😊 🤓
+### Olá! Eu sou a Larissa Santos, graduada em Sistemas de Informações 😊 🤓
 
 <div align="center">
   <a href="https://github.com/Santoslarissa">
